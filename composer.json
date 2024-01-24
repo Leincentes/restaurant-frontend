@@ -1,0 +1,23 @@
+{
+    "name": "leince/restaurant-frontend",
+    "description": "A restaurant frontend ui.",
+    "type": "project",
+    "require-dev": {
+        "leinc/minichan-router": "dev-main",
+        "eftec/bladeone": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RF\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Niel",
+            "email": "leincentes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
