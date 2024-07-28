@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to the **Restaurant Frontend** project! This repository contains the user interface for a restaurant application. The UI is designed to provide an interactive and user-friendly experience for customers interacting with the restaurant's services.
+This repository contains the user interface for a restaurant application. The UI is designed to provide an interactive and user-friendly experience for customers interacting with the restaurant's services.
 
 ## Table of Contents
 
